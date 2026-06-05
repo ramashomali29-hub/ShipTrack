@@ -1,0 +1,56 @@
+May 23, 2026 11:19:33 PM security.SystemLogger writeToLog
+INFO: ShipTrack System Started
+May 23, 2026 11:38:18 PM security.SystemLogger writeToLog
+INFO: Password hashed successfully
+May 23, 2026 11:45:49 PM security.SystemLogger writeToLog
+INFO: Users file read successfully
+May 24, 2026 12:06:13 AM security.SystemLogger writeToLog
+INFO: Successful login for ID: 12345
+May 24, 2026 12:06:28 AM security.SystemLogger writeToLog
+INFO: Invalid login attempt
+May 25, 2026 11:04:20 PM security.SystemLogger writeToLog
+INFO: New customer registered: 444
+May 25, 2026 11:31:13 PM security.SystemLogger writeToLog
+INFO: New customer registered: 789
+May 25, 2026 11:33:01 PM security.SystemLogger writeToLog
+INFO: Invalid login attempt for ID: 444
+May 26, 2026 1:01:13 AM security.SystemLogger writeToLog
+INFO: New shipment created: 333
+May 27, 2026 2:42:38 AM security.SystemLogger writeToLog
+INFO: Invalid login attempt for ID: 999
+May 27, 2026 2:43:13 AM security.SystemLogger writeToLog
+INFO: Invalid login attempt for ID: 999
+May 27, 2026 4:03:51 AM security.SystemLogger writeToLog
+INFO: Successful login for ID: 111
+May 27, 2026 4:04:35 AM security.SystemLogger writeToLog
+INFO: Shipment assigned: 88 to driver: 343 with status: In Transit
+May 27, 2026 4:04:56 AM security.SystemLogger writeToLog
+INFO: Viewed personal info for ID: 111
+May 28, 2026 2:52:16 AM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
+May 28, 2026 2:52:16 AM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
+May 28, 2026 2:52:36 AM security.SystemLogger writeToLog
+INFO: New dispatcher registered: 8
+May 28, 2026 2:52:36 AM security.SystemLogger writeToLog
+INFO: New dispatcher registered: 8
+May 28, 2026 2:52:43 AM security.SystemLogger writeToLog
+INFO: Staff removed: 8
+May 28, 2026 2:52:43 AM security.SystemLogger writeToLog
+INFO: Staff removed: 8
+Jun 03, 2026 8:30:36 PM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
+Jun 03, 2026 8:30:36 PM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
+Jun 03, 2026 8:31:19 PM security.SystemLogger writeToLog
+INFO: New dispatcher registered: 555
+Jun 03, 2026 8:31:19 PM security.SystemLogger writeToLog
+INFO: New dispatcher registered: 555
+Jun 03, 2026 8:32:29 PM security.SystemLogger writeToLog
+INFO: New delivery personnel registered: 111
+Jun 03, 2026 8:32:29 PM security.SystemLogger writeToLog
+INFO: New delivery personnel registered: 111
+Jun 05, 2026 11:24:04 PM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
+Jun 05, 2026 11:24:35 PM security.SystemLogger writeToLog
+INFO: Successful login for ID: 999
