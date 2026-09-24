@@ -33,6 +33,7 @@ ShipTrack is a Java application that manages package delivery operations, includ
 - Role-based access control
 - Input validation
 - Activity logging
+-  Passwords hashed using SHA-256
 
 ## Testing & Code Quality
 - **Unit Testing:** [JUnit] tests for core features
